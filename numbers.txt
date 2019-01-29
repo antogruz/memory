@@ -11,7 +11,7 @@ pain
 tasse
 tente
 toon
-damier
+dame
 taureau
 talon
 douche
@@ -49,7 +49,7 @@ requin
 ravin
 robe
 lasso
-pastis
+lutin
 laine
 lama
 laurier
@@ -61,7 +61,7 @@ loupe
 chasse
 chateau
 jeanne
-chameau
+gemme
 char
 jules
 chouchou
@@ -90,7 +90,7 @@ fifi
 vampire
 pizza
 patate
-banane
+panneau
 pomme
 bar
 poule
