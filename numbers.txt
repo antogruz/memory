@@ -23,7 +23,7 @@ nattes
 nunu
 nemo
 nord
-nala
+nil
 neige
 nico
 nymphe
@@ -68,7 +68,7 @@ chouchou
 jacques
 chauve
 chapeau
-coussin
+caisse
 couteau
 canne
 camion
