@@ -3,17 +3,18 @@
 import random
 import os
 
+filename = "numbers.txt"
 def main():
-    with open("numbers.txt", "r") as fh:
-        couples = import_couples(fh)
+    with open(filename, "r") as fh:
+        lines = import_lines(fh)
 
-    random.shuffle(couples)
+    random.shuffle(lines)
 
-    while couples:
+    while lines:
         os.system("clear")
-        couples = check_all(couples)
+        lines = check_all(lines)
 
-def import_couples(fh, n = 99999):
+def import_lines(fh, n = 99999):
     couples = []
     i = 0
 

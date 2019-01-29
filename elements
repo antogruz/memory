@@ -3,15 +3,16 @@
 import random
 import os
 
+filename = "elements.txt"
 def main():
-    with open("elements.txt", "r") as fh:
-        elements = import_lines(fh)
+    with open(filename, "r") as fh:
+        lines = import_lines(fh)
 
-    random.shuffle(elements)
+    random.shuffle(lines)
 
-    while elements:
+    while lines:
         os.system("clear")
-        elements = check_all(elements)
+        lines = check_all(lines)
 
 def import_lines(fh, n = 99999):
     return [line.rstrip().split(" ") for line in fh.readlines()]
