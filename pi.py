@@ -9,7 +9,7 @@ def main():
         size = len(attempt) - 2
     else:
         attempt = sys.argv[2]
-        start = int(sys.argv[1]) + 2
+        start = int(sys.argv[1]) + 3
         size = len(attempt)
 
     if not iscontainedin(attempt, pi[start:]):
