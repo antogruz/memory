@@ -6,13 +6,19 @@ import sys
 
 from elements import Elements
 from numbers import Numbers
+from departements import Departements
 
 def main():
     assert len(sys.argv) > 1
 
     filename = sys.argv[1]
+
     if filename == "elements.txt":
         data = Elements()
+    elif filename == "departements.txt":
+        data = Departements()
+    elif filename == "learnt.txt":
+        data = Departements()
     else:
         data = Numbers()
 

@@ -1,0 +1,14 @@
+--- Bretagne ---
+Finistère : 29 02.98 Brest Quimper Morlaix
+Côtes d'Armor : 22 02.96 Saint-Brieuc Lagnon Lamballe-Armor
+Morbihan : 56 02.97 Lorient Vannes Lanester
+Ille-et-Vilaine : 35 02.99 Rennes Saint-Malo Fougères
+
+--- Normandie ---
+Manche : 50 02.33 Cherbourg-en-Cotentin Saint-Lô Granville
+Calvados : 14 02.31 Caen Hérouville-Saint-Clair Lisieux
+Orne : 61 02.33 Alençon Flers Argentan
+Eure : 27 02.32 Évreux Vernon Louviers
+Seine-Maritime : 76 02.35 Le-Havre Rouen Sotteville-lès-Rouen
+
+

@@ -1,0 +1,127 @@
+--- Bretagne ---
+Finistère : 29 02.98 Brest Quimper Morlaix
+Côtes d'Armor : 22 02.96 Saint-Brieuc Lagnon Lamballe-Armor
+Morbihan : 56 02.97 Lorient Vannes Lanester
+Ille-et-Vilaine : 35 02.99 Rennes Saint-Malo Fougères
+
+--- Pays de la Loire ---
+Loire-Atlantique : 44 02.40 Nantes Saint-Nazaire Saint-Herblain
+Vendée : 85 02.51 La-Roche-sur-Yon Les-Sables-d'Olonne Challans
+Maine-et-Loire : 49 02.41 Angers Cholet Saumur
+Mayenne : 53 02.43 Laval Château-Gontier-sur-Mayenne Mayenne
+Sarthe : 72 02.43 Le-Mans La-Fèche Sablé-sur-Sarthe
+
+--- Normandie ---
+Manche : 50 02.33 Cherbourg-en-Cotentin Saint-Lô Granville
+Calvados : 14 02.31 Caen Hérouville-Saint-Clair Lisieux
+Orne : 61 02.33 Alençon Flers Argentan
+Eure : 27 02.32 Évreux Vernon Louviers
+Seine-Maritime : 76 02.35 Le-Havre Rouen Sotteville-lès-Rouen
+
+--- Centre Val de Loire ---
+Eure-et-Loir : 28 02.37 Chartres Dreux Lucé
+Loir-et-Cher : 41 02.54 Blois Romorantin-Lanthenay Vendôme
+Loiret : 45 02.38 Orléans Olivet Saint-Jean-de-Braye
+Cher : 18 02.48 Bourges Vierzon Saint-Doulchard
+Indre : 36 02.54 Chateauroux Issoudun Déols
+Indre-et-Loire : 37 02.47 Tours Joué-lès-Tours Saint-Cyr-sur-Loire
+
+--- Hauts de France ---
+Oise : 60 03.44 Beauvais Compiègne Creil
+Somme : 80 03.22 Amiens Abbeville Albert
+Pas-de-Calais : 62 03.21 Calais Arras Boulogne-sur-Mer
+Nord : 59 03.20 03.27 03.28 Lille Tourcoing Roubaix
+Aisne : 02 03.23 Saint-Quentin Soissons Laon
+
+--- Grand Est ---
+Ardennes : 08 03.24 Charleville-Mézières Sedan Rethel
+Marne : 51 03.26 Reims Châlons-en-Champagne Épernay
+Meuse : 55 03.29 Verdun Bar-le-Duc Commercy
+Meurthe-et-Moselle : 54 03.83 (sud) 03.82 (nord) Nancy Vandoeuvre-lès-Nancy Lunéville
+Moselle : 57 03.87 (est) 03.82 (ouest) Metz Thionville Montigny-lès-Metz
+Bas-Rhin : 67 03.88 Strasbourg Haguenau Schiltigheim
+Haut-Rhin : 68 03.89 Mulhouse Colmar Saint-Louis
+Vosges : 88 03.29 Épinal Saint-Dié-des-Vosges Golbey
+Haute-Marne : 52 03.25 Saint-Dizier Chaumont Langres
+Aube : 10 03.25 Troyes Romilly-sur-Seine Saint-André-les-Vergers
+
+--- Bourgogne Franche-Comté ---
+Côte-d'Or : 21 03.80 Dijon Beaune Chenôve
+Saône-et-Loire : 71 03.85 Chalon-sur-Saône Mâcon Le-Creusot
+Yonne : 89 03.86 Auxerre Sens Joigny
+Nièvre : 58 03.86 Nevers Cosne-Cours-sur-Loire Varennes-Vauzelles
+Jura : 39 03.84 Dole Lons-le-Saunier Saint-Claude
+Doubs : 25 03.81 Besançon Montbéliard Pontarlier
+Haute-Saône 70 03.84 Vesoul Héricourt Luré
+Territoire de Belfort : 90 03.84 Belfort Delle Valdoie
+
+--- Auvergne Rhone-Alpes ---
+Allier : 03 04.70 Montluçon Vichy Moulins
+Loire : 42 04.77 Saint-Étienne Saint-Chamond Roanne
+Rhône : 69 04.72 04.74 04.78 du Nord au Sud Lyon Villeurbanne Vénissieux
+Ain : 01 04.50 (nord) 04.74 (sud) Bourg-en-Bresse Oyonnax Valserhône
+Isère : 38 04.74 (nord) 04.76 (sud) Grenoble Saint-Martin-d'Hères Échirolles
+Savoie : 73 04.79 Chambéry Aix-les-Bains Albertville
+Haute-Savoie : 74 04.50 Annecy Annemasse Thonon-les-Bains
+Puy-De-Dôme : 63 04.73 Clermont-Ferrand Cournon-d'Auvergne Riom
+Cantal : 15 04.71 Aurillac Saint-Flour Arpajon-sur-Cère
+Haute-Loire : 43 04.72 Le-Puy-en-Velay Monistrol-sur-Loire Yssingeaux
+Ardèche : 07 04.75 Annonay Aubenas Guilherand-Granges
+Drome : 26 04.75 Valence Montélimar Romans-sur-Isère
+
+--- Provence Alpes Côte D'Azur ---
+Hautes-Alpes : 05 04.92 Gap Briançon Embrun
+Alpes de Haute Provence : 04 04.92 Manosque Digne-les-Bains Sisteron
+Alpes-Maritimes : 06 04.92 (nord) 04.93 (sud) Nice Antibes Cannes
+Var : 83 04.94 Toulon La-Seyne-sur-Mer Fréjus
+Vaucluse : 84 04.90 Avignon Carpentras Orange
+Bouches-du-Rhone 13 04.42 (ouest) 04.91 (milieu) 04.90 (est) Marseille Aix-en-Provence Arles
+
+--- Corse ---
+Corse du sud : 2A 04.95 Ajaccio Porto-Vecchio Bastelicaccia
+Haute Corse : 2B 04.95 Bastia Borgo Biguglia
+
+--- Occitanie ---
+Hérault : 34 04.67 Montpellier Béziers Sète
+Gard : 30 04.66 04.67 Nîmes Alès Bagnols-sur-Cèze
+Lozère : 48 04.66 Mende Marvejols Saint-Chély-d'Apcher
+Aude : 11 04.68 Narbonne Carcassonne Castelnaudary
+Pyrénées Orientales : 66 04.68 Perpignan Canet-en-Roussillon Saint-Estève
+--
+Aveyron : 12 05.65 Rodez Millau Onet-le-Château
+Tarn : 81 05.63 Albi Castres Gaillac
+Haute-Garonne : 31 05.62 (nord) 05.61 (sud) Toulouse Colomiers Tournefeuille
+Ariège : 09 05.61 Pamiers Foix Saint-Girons
+Tarn-et-Garonne : 82 05.63 Montauban Castelsarrasin Moissac
+Lot : 46 05.65 Cahors Figeac Gourdon
+Gers : 32 05.62 Auch L'Isle-Jourdain Condom
+Hautes-Pyrénées : 65 05.62 Tarbes Lourdes Aureilhan
+
+--- Nouvelle Aquitaine ---
+Pyrénées-Atlantiques : 64 05.59 Pau Bayonne Anglet
+Landes : 40 05.58 Mont-de-Marsan Dax Biscarosse
+Lot-et-Garonne : 47 05.53 Agen Villeneuve-sur-Lot Marmande
+Gironde : 33 05.56 (sud-ouest) 05.57 (nord-est) Bordeaux Mérignac Pessac
+Charente-Maritime : 17 05.46 La-Rochelle Saintes Rochefort
+Charente : 16 05.45 Angoulême Cognac Soyaux
+Deux-Sèvres : 79 05.49 Niort Bressuire Thouars
+Vienne : 86 05.49 Poitiers Châtellerault Buxerolles
+Haute-Vienne : 87 05.55 Limoges Saint-Junien Panazol
+Creuse : 23 05.55 Guéret La-Souterraine Aubusson
+Corrèze : 19 05.55 Brive-la-Gaillarde Tulle Ussel
+Dordogne : 24 05.53 Périgueux Bergerac Boulazac-Isle-Manoire
+
+--- Île de France ---
+Seine-et-Marne : 77 Meaux Chelles Melun
+Essone : 91 Évry-Courcouronnes Corbeil-Essonnes Massy
+Yvelines : 78 Versailles Sartrouville Mantes-la-Jolie
+Val d'Oise : 95 Argenteuil Cergy Sarcelles
+Paris : 75
+Val de Marne : 94 Vitry-sur-Seine Créteil Champigny-sur-Marne
+Seine-Saint-Denis : 93 Saint-Denis Montreuil Aubervillers
+Hauts-de-Seine : 92 Boulogne-Billancourt Nanterre Asnières-sur-Seine
+
+
+
+
+
