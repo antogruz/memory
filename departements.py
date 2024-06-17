@@ -27,7 +27,7 @@ class Departements:
 
 def standardized(string):
     string = string.lower()
-    specialChars = {"e": "éèê", "o": "ô", "a": "à", " ": "-_’'"}
+    specialChars = {"e": "éèê", "o": "ô", "a": "àâ", " ": "-_’'"}
     for simple, complexes in specialChars.items():
         for complex in complexes:
             string = re.sub(complex, simple, string)
