@@ -11,4 +11,9 @@ Orne : 61 02.33 Alençon Flers Argentan
 Eure : 27 02.32 Évreux Vernon Louviers
 Seine-Maritime : 76 02.35 Le-Havre Rouen Sotteville-lès-Rouen
 
-
+--- Pays de la Loire ---
+Loire-Atlantique : 44 02.40 Nantes Saint-Nazaire Saint-Herblain
+Vendée : 85 02.51 La-Roche-sur-Yon Les-Sables-d'Olonne Challans
+Maine-et-Loire : 49 02.41 Angers Cholet Saumur
+Mayenne : 53 02.43 Laval Château-Gontier-sur-Mayenne Mayenne
+Sarthe : 72 02.43 Le-Mans La-Flèche Sablé-sur-Sarthe

@@ -9,7 +9,7 @@ Loire-Atlantique : 44 02.40 Nantes Saint-Nazaire Saint-Herblain
 Vendée : 85 02.51 La-Roche-sur-Yon Les-Sables-d'Olonne Challans
 Maine-et-Loire : 49 02.41 Angers Cholet Saumur
 Mayenne : 53 02.43 Laval Château-Gontier-sur-Mayenne Mayenne
-Sarthe : 72 02.43 Le-Mans La-Fèche Sablé-sur-Sarthe
+Sarthe : 72 02.43 Le-Mans La-Flèche Sablé-sur-Sarthe
 
 --- Normandie ---
 Manche : 50 02.33 Cherbourg-en-Cotentin Saint-Lô Granville
