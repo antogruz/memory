@@ -17,3 +17,8 @@ Vendée : 85 02.51 La-Roche-sur-Yon Les-Sables-d'Olonne Challans
 Maine-et-Loire : 49 02.41 Angers Cholet Saumur
 Mayenne : 53 02.43 Laval Château-Gontier-sur-Mayenne Mayenne
 Sarthe : 72 02.43 Le-Mans La-Flèche Sablé-sur-Sarthe
+
+--- Centre Val de Loire ---
+Eure-et-Loir : 28 02.37 Chartres Dreux Lucé
+Loir-et-Cher : 41 02.54 Blois Romorantin-Lanthenay Vendôme
+Loiret : 45 02.38 Orléans Olivet Saint-Jean-de-Braye
