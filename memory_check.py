@@ -17,8 +17,6 @@ def main():
         data = Elements()
     elif filename == "departements.txt":
         data = Departements()
-    elif filename == "learnt.txt":
-        data = Departements()
     else:
         data = Numbers()
 

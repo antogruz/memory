@@ -9,6 +9,9 @@ def runTests(tester):
             tester.__before__()
         getattr(tester, test)()
 
+def assert_true(actual):
+    if not actual:
+        raise Exception("Expected", actual, "to be true")
 
 def assert_equals(expected, actual):
     if expected != actual:
