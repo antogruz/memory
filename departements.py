@@ -73,9 +73,6 @@ class Parser:
 
 import re
 
-def getPhones(line):
-    return re.findall(phonePattern(), line)
-
 def phonePattern():
     return "[0-9][0-9]\.[0-9][0-9]"
 
@@ -102,6 +99,9 @@ class Phones:
 
     def check(self, answer):
         return similars(self.expected, getPhones(answer))
+
+def getPhones(line):
+    return re.findall(phonePattern(), line)
 
 class SimpleCheck:
     def __init__(self, header, value):
