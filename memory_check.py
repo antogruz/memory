@@ -33,7 +33,7 @@ def check_all(data, array):
     fails = []
     for a in array:
         if not data.check(a):
-            print("Fail", a)
+            print("Fail")
             fails.append(a)
     return fails
 

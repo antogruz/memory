@@ -4,7 +4,7 @@ import random
 
 class Departements:
     def import_lines(self, fh):
-        return [ Data(l) for l in fh.readlines() if self.isDepartment(l) ]
+        return [ Data(l) for l in fh.read().splitlines() if self.isDepartment(l) ]
 
     def isDepartment(self, line):
         if len(line) == 0:
@@ -18,7 +18,6 @@ class Departements:
         pick = random.choice(data.keys)
         print(pick.header, pick.expected)
         elements = data.keys + data.nonKeys
-        random.shuffle(elements)
         for element in elements:
             if element.header == pick.header:
                 continue
@@ -49,9 +48,6 @@ class Data:
         cities = parser.line.split(" ")
         for i, city in enumerate(cities):
             self.keys.append(SimpleCheck("Ville" + str(i + 1), city))
-
-    def __str__(self):
-        return "{} _ {} _ {} _ {}".format(self.name, self.number, self.phones, self.cities)
 
 class Parser:
     def __init__(self, line):
@@ -110,7 +106,6 @@ class SimpleCheck:
 
     def check(self, answer):
         return standardized(answer) == standardized(self.expected)
-
 
 
 from unittests import assert_equals, assert_true

@@ -14,8 +14,16 @@ class Elements():
         for i in range(0, 4):
             if i == data_given:
                 continue
-            if input() != str(e[i]):
+            if standardized(input()) != standardized(str(e[i])):
                 print("On attendait", e[i])
                 success = False
         return success
 
+import re
+def standardized(string):
+    string = string.lower()
+    specialChars = {"e": "éèê", "o": "ô", "a": "àâ", " ": "-_’'"}
+    for simple, complexes in specialChars.items():
+        for complex in complexes:
+            string = re.sub(complex, simple, string)
+    return string
